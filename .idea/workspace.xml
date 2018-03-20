@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ce7c366-cc3f-4c86-970f-64765b51c834" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/211ObjectsFuctions.js" afterPath="$PROJECT_DIR$/211ObjectsFuctions.js" />
-    </list>
+    <list default="true" id="0ce7c366-cc3f-4c86-970f-64765b51c834" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,21 +22,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="210DeclareObjects.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="210DeclareObjects.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/210DeclareObjects.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            <state relative-caret-position="165">
+              <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="211ObjectsFuctions.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="211ObjectsFuctions.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/211ObjectsFuctions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="120">
+              <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="13" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -60,9 +58,9 @@
         <option value="$PROJECT_DIR$/204RandomFractions.js" />
         <option value="$PROJECT_DIR$/208RegExNum.js" />
         <option value="$PROJECT_DIR$/209RegExInvert.js" />
-        <option value="$PROJECT_DIR$/210DeclareObjects.js" />
         <option value="$PROJECT_DIR$/210ObjectsFuctions.js" />
         <option value="$PROJECT_DIR$/211ObjectsFuctions.js" />
+        <option value="$PROJECT_DIR$/210DeclareObjects.js" />
       </list>
     </option>
   </component>
@@ -376,18 +374,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/210DeclareObjects.js">
+    <entry file="file://$PROJECT_DIR$/211ObjectsFuctions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        <state relative-caret-position="120">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="13" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/211ObjectsFuctions.js">
+    <entry file="file://$PROJECT_DIR$/210DeclareObjects.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="165">
+          <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
           <folding />
         </state>
       </provider>
