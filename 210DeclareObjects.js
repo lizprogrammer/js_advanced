@@ -12,4 +12,4 @@ var motorBike = {
 };
 
 print(motorBike.toString());
-print("Good job!");
+print("Great job!");
