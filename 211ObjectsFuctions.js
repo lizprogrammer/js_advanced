@@ -7,5 +7,10 @@ var Car = function() {
 // Only change code below this line.
 
 var MotorBike = function() {
-
+  this.wheels = 2;
+  this.engines = 1;
+  this.seats = 2;
+  print("We got " + this.wheels + " wheels!")
 };
+
+MotorBike();
