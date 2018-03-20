@@ -14,3 +14,4 @@ var MotorBike = function() {
 };
 
 MotorBike();
+print("Looking good!")
