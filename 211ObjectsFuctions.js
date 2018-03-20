@@ -1,17 +1,13 @@
+
 var Car = function() {
   this.wheels = 4;
   this.engines = 1;
   this.seats = 5;
+  
 };
 
 // Only change code below this line.
 
-var MotorBike = function() {
-  this.wheels = 2;
-  this.engines = 1;
-  this.seats = 2;
-  print("We got " + this.wheels + " wheels!")
-};
-
-MotorBike();
-print("Looking good!")
+var myCar = new Car();
+myCar.nickname = "Liz";
+print("Yo!");
