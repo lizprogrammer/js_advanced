@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ce7c366-cc3f-4c86-970f-64765b51c834" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/211ObjectsFuctions.js" afterPath="$PROJECT_DIR$/211ObjectsFuctions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/212FunctionParameters.js" afterPath="$PROJECT_DIR$/212FunctionParameters.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,7 +34,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="211ObjectsFuctions.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="211ObjectsFuctions.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/211ObjectsFuctions.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
@@ -44,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="212FunctionParameters.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="212FunctionParameters.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/212FunctionParameters.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="195">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -72,8 +72,8 @@
         <option value="$PROJECT_DIR$/209RegExInvert.js" />
         <option value="$PROJECT_DIR$/210ObjectsFuctions.js" />
         <option value="$PROJECT_DIR$/210DeclareObjects.js" />
-        <option value="$PROJECT_DIR$/212FunctionParameters.js" />
         <option value="$PROJECT_DIR$/211ObjectsFuctions.js" />
+        <option value="$PROJECT_DIR$/212FunctionParameters.js" />
       </list>
     </option>
   </component>
@@ -450,18 +450,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/212FunctionParameters.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/211ObjectsFuctions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/212FunctionParameters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
