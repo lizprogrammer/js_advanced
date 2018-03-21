@@ -13,7 +13,7 @@ var Car = function() {
 
 var myCar = new Car();
 myCar.nickname = "Liz";
-print("Yo!");
+print("Whassup dog!");
 
 print (myCar.toString);
 
