@@ -1,8 +1,12 @@
 
-var array = [1, 12, 21, 2];
+var myArray = [1, 12, 21, 2];
 
 // Only change code below this line.
 
-array.sort();
+myArray.sort(function(a, b) {
+  return b - a;
+});
+
+print(myArray);
 
 
