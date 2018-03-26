@@ -1,11 +1,14 @@
 function reverseString(str) {
    n = str.length - 1; // 5
+   print (n);
    x = str[n]; // last character
 
    while (n > 0) {
      n--;
+     print(n);
     x += str[n];
     }
+
 
   return x;
 }
