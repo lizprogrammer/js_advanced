@@ -16,8 +16,10 @@ function whatIsInAName(collection, source) {
   return arr;
 }
 
+
 var ans = whatIsInAName([{ "a": 1, "b": 2 }, { "a": 1 }, { "a": 1, "b": 2, "c": 2 }], { "a": 1, "b": 2 });
 //print(ans.toSource());
 
 print(ans[0]["a"]);
-print(ans[0]);
+print(Object.keys(ans[0]));
+
