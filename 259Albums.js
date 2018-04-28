@@ -61,7 +61,6 @@ function updateRecords(id, prop, value) {
     collection[id] = myObj;
 
   return collection;
-
 }
 
 // Alter values below to test your code
