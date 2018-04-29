@@ -16,25 +16,50 @@ development done locally, or in c9, testing in browser console or c9 console onl
 */
 
 var rental = {
-    1: { rentalClass: "sedan", rentalPrice: 5.00, rentalAvailable: true,
+    rentalClass: "sedan", rentalPrice: 5.00, rentalAvailable: true,
 
 
-    },
-    2: { rentalClass: "suv", rentalPrice: 5.00, rentalAvailable: true,
 
-
-    },
-    3: { rentalClass: "sedan", rentalPrice: 5.00, rentalAvailable: true,
-
-
+    toString: function(){
+        return this.rentalClass +  ", " + this.rentalPrice + ", " + this.rentalAvailable;
     },
 
-   submitRentalRequest: function(id)
+    setRentalClass: function(c)
     {
-    if (this[id].rentalAvailable == true)
+        this.rentalClass = c;
+    },
+
+    getRentalClass: function()
+    {
+        return this.rentalClass;
+    },
+
+    setRentalPrice: function(p) //true or false
+    {
+        this.rentalPrice = p;
+    },
+
+    getRentalPrice: function(){
+        return this.rentalPrice;
+    },
+
+    setRentalAvailable: function(a) //true or false
+    {
+        this.rentalAvailable = a;
+    },
+
+    getRentalAvailable: function(){
+        return this.rentalAvailable;
+    },
+
+
+
+   submitRentalRequest: function()
+    {
+    if (this.rentalAvailable == true)
     {
         print("Rental car successfully reserved");
-        this[id].rentalAvailable = false;
+        this.rentalAvailable = false;
     }
     else
     {
@@ -45,17 +70,14 @@ var rental = {
 };
 
 
+var myRental = rental;
 
+myRental.setRentalPrice(500.00);
+myRental.setRentalAvailable(true);
+myRental.setRentalClass("Mercedes");
+print(myRental.toString());
 
-
-print(rental[1]);
-
-print(rental[1].rentalClass);
-
-print(rental[1].rentalAvailable);
-
-
-rental.submitRentalRequest(1);
-print(rental[1].rentalAvailable);
-rental.submitRentalRequest(1);
+myRental.submitRentalRequest();
+print(myRental.rentalAvailable);
+myRental.submitRentalRequest();
 
