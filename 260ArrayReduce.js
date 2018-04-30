@@ -1,29 +1,32 @@
-function sym(a) {
+function sym() {
 
-    args = Array.prototype.slice.call(arguments);
-
-
-    var winners = [];
-
-    //print(args);
-
-    for(var i = 0; i < args.length; i++)
-    {
-        args[i].sort();
-        print(args[i]);
-
-        for(var j = 0; j < args[i].length; j++)
-        //print(args[i][j]);
-
-        if(args[i].indexOf(args[i][j]) >=1)
-            {
-                winners.push(args[i][j]);
-            }
+    var args = [];
+    for (var i = 0; i < arguments.length; i++) {
+        args.push(arguments[i]);
     }
 
-    //print(winners);
+    function symDiff(arrayOne, arrayTwo) {
+        var result = [];
 
-  return args;
+        arrayOne.forEach(function(item) {
+            if (arrayTwo.indexOf(item) < 0 && result.indexOf(item) < 0) {
+                result.push(item);
+            }
+        });
+
+        arrayTwo.forEach(function(item) {
+            if (arrayOne.indexOf(item) < 0 && result.indexOf(item) < 0) {
+                result.push(item);
+            }
+        });
+
+        return result;
+    }
+
+    // Apply reduce method to args array, using the symDiff function
+    return args.reduce(symDiff);
+
+
 }
 
-sym([1, 2, 5], [2, 3, 5], [4, 3, 5]);
+sym([1, 2, 3], [5, 2, 1, 4]);
