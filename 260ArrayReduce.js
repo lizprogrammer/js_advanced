@@ -1,4 +1,4 @@
-function sym() {
+function sym(myArgs) {
 
     var args = [];
     for (var i = 0; i < arguments.length; i++) {
@@ -30,3 +30,6 @@ function sym() {
 }
 
 sym([1, 2, 3], [5, 2, 1, 4]);
+
+
+
