@@ -1,3 +1,4 @@
+
 var stock = {
 
 	"AMZN": {
@@ -10,4 +11,5 @@ var stock = {
 };
 
 console.log(stock.AMZN.price);
+
 

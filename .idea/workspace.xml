@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ce7c366-cc3f-4c86-970f-64765b51c834" name="Default" comment="">
+
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/265BooWho.js" />
+
       <change type="DELETED" beforePath="$PROJECT_DIR$/finance.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/260ArrayReduce.js" afterPath="$PROJECT_DIR$/260ArrayReduce.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,9 +28,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="260ArrayReduce.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="260ArrayReduce.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/260ArrayReduce.js">
           <provider selected="true" editor-type-id="text-editor">
+
+            <state relative-caret-position="345">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+
             <state relative-caret-position="210">
               <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="20" selection-end-column="13" />
               <folding />
@@ -71,16 +77,25 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+
+      <file leaf-file-name="anObject.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/anObject.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+
       <file leaf-file-name="263DNA.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/263DNA.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
               <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+
               <folding />
             </state>
           </provider>
@@ -150,8 +165,8 @@
         <option value="$PROJECT_DIR$/../yahoo_finance/finance.py" />
         <option value="$PROJECT_DIR$/../yahoo_finance/yahooFinance.py" />
         <option value="$PROJECT_DIR$/259Albums.js" />
-        <option value="$PROJECT_DIR$/260ArrayReduce.js" />
         <option value="$PROJECT_DIR$/anObject.js" />
+        <option value="$PROJECT_DIR$/260ArrayReduce.js" />
         <option value="$PROJECT_DIR$/263DNA.js" />
         <option value="$PROJECT_DIR$/../ToDoList/toDoFunctions_Lesson4.js" />
         <option value="$PROJECT_DIR$/../ToDoList/264MissingLetters.js" />
@@ -164,7 +179,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="75" />
     <option name="y" value="22" />
-    <option name="width" value="1365" />
+    <option name="width" value="1186" />
     <option name="height" value="785" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -183,6 +198,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+
       <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
@@ -199,6 +215,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -206,9 +223,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/../yahoo_finance" />
       <recent name="$PROJECT_DIR$/.." />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -386,6 +403,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+    <frame x="75" y="22" width="1186" height="785" extended-state="0" />
     <frame x="75" y="22" width="1365" height="785" extended-state="0" />
     <editor active="true" />
     <layout>
@@ -397,7 +415,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24198988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06959707" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="MaxCompute Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="MaxCompute Job" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -722,6 +740,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/anObject.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="617">
           <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
         </state>
@@ -748,10 +770,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="20" selection-end-column="13" />
+
           <folding />
         </state>
       </provider>
     </entry>
+
+    <entry file="file://$PROJECT_DIR$/260ArrayReduce.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+
     <entry file="file://$PROJECT_DIR$/264MissingLetters.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
