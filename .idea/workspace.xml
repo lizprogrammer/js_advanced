@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ce7c366-cc3f-4c86-970f-64765b51c834" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/answer264.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/265BooWho.js" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/finance.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -56,11 +56,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="answer264.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="answer264.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/answer264.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+            <state relative-caret-position="225">
+              <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="265BooWho.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/265BooWho.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -97,7 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/206RandomRange.js" />
         <option value="$PROJECT_DIR$/207RegEx.js" />
         <option value="$PROJECT_DIR$/204RandomFractions.js" />
         <option value="$PROJECT_DIR$/208RegExNum.js" />
@@ -148,6 +157,7 @@
         <option value="$PROJECT_DIR$/../ToDoList/264MissingLetters.js" />
         <option value="$PROJECT_DIR$/264MissingLetters.js" />
         <option value="$PROJECT_DIR$/answer264.js" />
+        <option value="$PROJECT_DIR$/265BooWho.js" />
       </list>
     </option>
   </component>
@@ -414,13 +424,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/213PrivateVariables.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/216FilterArray.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -759,8 +762,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/answer264.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        <state relative-caret-position="225">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/265BooWho.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
